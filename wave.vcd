@@ -1,0 +1,83 @@
+$date
+	Mon Jan 24 08:52:49 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test_fd1 $end
+$var wire 1 ! cout $end
+$var wire 1 " s $end
+$var reg 1 # a $end
+$var reg 1 $ b $end
+$var reg 1 % cin $end
+$scope module f1 $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 & c $end
+$var wire 1 % cin $end
+$var wire 1 ! cout $end
+$var wire 1 " s $end
+$var wire 1 ' w1 $end
+$var wire 1 ( w2 $end
+$var wire 1 ) w3 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0)
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+z!
+$end
+#100
+1"
+1%
+#200
+1'
+0%
+1$
+#300
+1&
+1(
+0"
+1%
+#400
+0&
+0(
+1"
+0%
+0$
+1#
+#500
+1&
+1(
+0"
+1%
+#600
+0(
+0'
+1)
+0%
+1$
+#700
+1(
+1'
+0)
+1%
+0$
+#800
+0(
+1"
+0'
+1)
+1$
+#900
