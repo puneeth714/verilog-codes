@@ -1,0 +1,88 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/puneeth/Documents/codes/verilog/behavioural
+T_opt
+!s110 1656093534
+V?kDnbeQ2QbgcE22XTEg;@0
+04 7 4 work counter fast 0
+=1-000ae431a4f1-62b5fb5e-4d5ef-43b95
+!s124 OEM10U1 
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+vcounter
+!s110 1656093509
+!i10b 1
+!s100 Cke@42nKM_NDaRKCEKNXF0
+IRkbnnTz:`HlfU=;WC;Q7:3
+R0
+w1645455328
+8/home/puneeth/Documents/codes/verilog/behavioural/counter.v
+F/home/puneeth/Documents/codes/verilog/behavioural/counter.v
+!i122 1
+L0 1 19
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OL;L;2021.2;73
+r1
+!s85 0
+31
+!s108 1656093509.000000
+!s107 /home/puneeth/Documents/codes/verilog/behavioural/counter.v|
+!s90 -reportprogress|300|-work|work|/home/puneeth/Documents/codes/verilog/behavioural/counter.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vmultiply
+Z5 !s110 1656093498
+!i10b 1
+!s100 Tg>C36504:1FJYV4NkX]c1
+IMQlKBzdd22MldjZzf4<4B2
+R0
+Z6 w1645350715
+Z7 8/home/puneeth/Documents/codes/verilog/behavioural/arth.v
+Z8 F/home/puneeth/Documents/codes/verilog/behavioural/arth.v
+!i122 0
+L0 19 8
+R2
+R3
+r1
+!s85 0
+31
+Z9 !s108 1656093498.000000
+Z10 !s107 /home/puneeth/Documents/codes/verilog/behavioural/arth.v|
+Z11 !s90 -reportprogress|300|-work|work|/home/puneeth/Documents/codes/verilog/behavioural/arth.v|
+!i113 0
+R4
+R1
+vtest_calc
+R5
+!i10b 1
+!s100 24P2=6]_`MIL8]?bWNJF73
+IKEYV3Z;X1C0bOnijXBFRL0
+R0
+R6
+R7
+R8
+!i122 0
+L0 38 17
+R2
+R3
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R4
+R1
