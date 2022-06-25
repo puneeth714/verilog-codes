@@ -35,12 +35,13 @@ module SRflipflopTB;
 initial clk = 0;
     always #10 clk = ~clk;
     initial begin
-   
+        $monitor(q,qbar);
+
         J = 0;K = 0;clk = 0;#100;
         J=0;K=1;#100
         J=1;K=0;#100
         J=1;K=1; 
-        
+        $finish;
 
     end
       
